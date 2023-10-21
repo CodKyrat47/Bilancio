@@ -1,0 +1,1 @@
+Useless file. It is only for having a not empty folder. In this folder Temp there will be temp files for auto saving
